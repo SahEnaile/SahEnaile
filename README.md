@@ -1,7 +1,7 @@
 # Olá! Eu sou a Sah👋
 
 # Bem-vindo ao meu GitHub!
-Sou um desenvolvedora focado em Node.js, React e Java. Adoro aprender novas tecnologias e compartilhar conhecimento.
+Sou um desenvolvedora focada em Java, React e Node.js. Adoro aprender novas tecnologias e compartilhar conhecimento.
 
 ## 🛠️ Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
