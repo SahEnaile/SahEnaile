@@ -19,7 +19,6 @@ Sou um desenvolvedora focada em Java, React e Node.js. Adoro aprender novas tecn
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahEnaile&show_icons=true&theme=jolly)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahEnaile&layout=compact&theme=jolly)
-![Snake animation](https://github.com/SahEnaile/SahEnaile/blob/output/github-contribution-grid-snake.svg)
 
 
 <!---
