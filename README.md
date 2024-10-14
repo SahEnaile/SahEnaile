@@ -8,8 +8,6 @@ Sou um desenvolvedora focado em Node.js, React e Java. Adoro aprender novas tecn
 Sou um desenvolvedor focado em Node.js e React. Adoro aprender novas tecnologias e compartilhar conhecimento.
 
 ## 📊 Estatísticas do GitHub:
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=jolly)
-
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahEnaile&show_icons=true&theme=jolly)
