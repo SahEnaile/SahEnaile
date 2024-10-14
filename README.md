@@ -2,6 +2,8 @@
 
 # Bem-vindo ao meu GitHub!
 Sou um desenvolvedora focado em Node.js, React e Java. Adoro aprender novas tecnologias e compartilhar conhecimento.
+![GIF de Boas-vindas](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)
+
 
 ## 📊 Estatísticas do GitHub:
 
