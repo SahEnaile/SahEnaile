@@ -3,8 +3,13 @@
 # Bem-vindo ao meu GitHub!
 Sou um desenvolvedora focado em Node.js, React e Java. Adoro aprender novas tecnologias e compartilhar conhecimento.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![React](https://img.shields.io/badge/React-blue)
+## 🛠️ Tecnologias e Ferramentas
+
+| Frontend | Backend | Ferramentas |
+| :---: | :---: | :---: |
+| ![React](https://img.shields.io/badge/React-blue) | ![Node.js](https://img.shields.io/badge/Node.js-green) | ![Git](https://img.shields.io/badge/Git-orange) |
+| ![CSS](https://img.shields.io/badge/CSS-blue) | ![Express](https://img.shields.io/badge/Express-gray) | ![Docker](https://img.shields.io/badge/Docker-blue) |
+| ![HTML](https://img.shields.io/badge/HTML-red) | ![Java](https://img.shields.io/badge/Java-orange) | ![VSCode](https://img.shields.io/badge/VSCode-blue) |
 
 
 ## 📊 Estatísticas do GitHub:
