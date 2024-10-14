@@ -3,10 +3,6 @@
 # Bem-vindo ao meu GitHub!
 Sou um desenvolvedora focado em Node.js, React e Java. Adoro aprender novas tecnologias e compartilhar conhecimento.
 
-
-# Bem-vindo ao meu GitHub!
-Sou um desenvolvedor focado em Node.js e React. Adoro aprender novas tecnologias e compartilhar conhecimento.
-
 ## 📊 Estatísticas do GitHub:
 
 
