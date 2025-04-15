@@ -13,7 +13,7 @@ Sou um desenvolvedora focada em Java e Angular. Adoro aprender novas tecnologias
   <img align="center" alt="Vite.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"/>
-  <img align="center" alt="Angular" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"/>
+  <img align="center" alt="Angular" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"/>
 
 </div>
 
