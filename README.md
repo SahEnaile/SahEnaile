@@ -20,7 +20,6 @@ Sou um desenvolvedora focada em Java e Angular. Adoro aprender novas tecnologias
 ## 📊 Estatísticas do GitHub:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahEnaile&show_icons=true&theme=jolly)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahEnaile&layout=compact&theme=jolly)
 
 
