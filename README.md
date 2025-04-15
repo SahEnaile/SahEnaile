@@ -1,7 +1,7 @@
 # Olá! Eu sou a Sah👋
 
 # Bem-vindo ao meu GitHub!
-Sou um desenvolvedora focada em Java, React e Node.js. Adoro aprender novas tecnologias e compartilhar conhecimento.
+Sou um desenvolvedora focada em Java e Angular. Adoro aprender novas tecnologias e compartilhar conhecimento.
 
 ## 🛠️ Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
@@ -20,6 +20,7 @@ Sou um desenvolvedora focada em Java, React e Node.js. Adoro aprender novas tecn
 ## 📊 Estatísticas do GitHub:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahEnaile&show_icons=true&theme=jolly)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahEnaile&layout=compact&theme=jolly)
 
 
