@@ -1,27 +1,12 @@
-# Olá! Eu sou a Sah👋
+# Hello! I'm Sah👋 
 
-# Bem-vindo ao meu GitHub!
-Sou um desenvolvedora focada em Java e Angular. Adoro aprender novas tecnologias e compartilhar conhecimento.
+I am a full stack developer. Passionate about technology and always exploring new tools, I have a greater emphasis on Java and its ecosystem. I constantly seek to improve my skills and develop efficient, scalable and intuitive solutions.
 
 ## 🛠️ Tecnologias e Ferramentas
-<div style="display: inline_block"><br>
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Vite.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"/>
-  <img align="center" alt="Angular" height="40" width="48"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"/>
+ [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,vue,tailwind,mysql,docker,go,java,spring,aws,angular,cs)](https://skillicons.dev)
 
 </div>
 
-
-## 📊 Estatísticas do GitHub:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahEnaile&show_icons=true&theme=jolly)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahEnaile&layout=compact&theme=jolly)
 
 
 <!---
