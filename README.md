@@ -3,7 +3,7 @@
 I am a full stack developer. Passionate about technology and always exploring new tools, I have a greater emphasis on Java and its ecosystem. I constantly seek to improve my skills and develop efficient, scalable and intuitive solutions.
 
 
- [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,vue,tailwind,mysql,mongodb,docker,go,java,spring,aws,angular,cs)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,ts,dotnet,react,nodejs,vue,tailwind,mysql,mongodb,docker,go,java,spring,aws,angular)](https://skillicons.dev)
 
 </div>
 
